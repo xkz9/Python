@@ -76,9 +76,9 @@ origional_string = "PyThon Is A powErful progRamming lanGUagE "
 # origional_string = "1234567890"
 # print (origional_string.isnumeric())
 
-# THe isalnum function willcheck if your string has any numbers 
+# THe isalnum function will check if your string has any numbers 
 # or letters ,but can only have numbers or letters or the value will 
-# appear false 9spaces = symbols 
+# appear false spaces = symbols 
 
 string_2 = "Pythonisaverypowerfulpreogramminglanguage1"
 print (string_2.isalnum())
