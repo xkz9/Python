@@ -1,4 +1,4 @@
-mylist = ["Leonardo's list", 9, 79, False]
+# mylist = ["Leonardo's list", 9, 79, False]
 
 # The apppend funtion adds whatever value you want to the end of your list.
 
@@ -16,7 +16,7 @@ mylist = ["Leonardo's list", 9, 79, False]
 # mylist.pop(2)
 # print(mylist)
 
-# Th einsert function adds a particular value at  a particular index in the list
+# Th insert function adds a particular value at  a particular index in the list
 
 # mylist.insert(2, 200)
 # print(mylist)
@@ -43,6 +43,16 @@ mylist = ["Leonardo's list", 9, 79, False]
 
 # The sort function autimatically sorts in ascensing order, but when you write reverse = True it puts them in descending order.
 
-mylist = ["Hello", "Hello", "Bye", "GoodBye"]
-mylist.sort(reverse = True)
+# mylist = ["Hello", "Hello", "Bye", "GoodBye"]
+# mylist.sort(reverse = True)
+# print(mylist)
+
+# Write a Python code to create a list of numbers from 1 to 10.
+# Add the numbers 11 and 12 to the list.
+# Remove the number 3 from the list.
+
+mylist = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+mylist.pop(2)
+mylist.append(11)
+mylist.append(12)
 print(mylist)
