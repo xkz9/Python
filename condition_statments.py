@@ -278,3 +278,35 @@
 # else:
 #     comfort = "Comfortable"
 # print(comfort)
+
+# age = 72
+# if age >= 0 and age <= 1:
+#     print("Infant")
+# elif age >= 2 and age <= 12:
+#     print("Child")
+# elif age >= 13 and age <= 19:
+#     print("Teenager")
+# elif age >= 20 and age <= 59:
+#     print("Adult")
+# else: 
+#     print("Senior")
+
+# score = 99
+# if score >= 90 and score <= 101:
+#     print("A")
+# elif score >= 80 and score <= 89:
+#     print("B")
+# elif score >= 70 and score <= 79:
+#     print("C")
+# elif score >= 60 and score <= 69:
+#     print("D")
+# elif score >= 50 and score <= 59:
+#     print("F")
+
+Choice = input ("Which pet will you adopt?")
+if Choice == " Dog":
+    print("You'll have a playful friend to take on walks and play fetch with.")
+elif Choice == " Cat":
+    print("You will have a cozy friend who loves to nap and purr by your side")
+elif Choice == " Rabbit":
+    print("You'll care for a quiet, gentle friend who loves to hop around safely indoors.")
