@@ -303,10 +303,22 @@
 # elif score >= 50 and score <= 59:
 #     print("F")
 
-Choice = input ("Which pet will you adopt?")
-if Choice == " Dog":
-    print("You'll have a playful friend to take on walks and play fetch with.")
-elif Choice == " Cat":
-    print("You will have a cozy friend who loves to nap and purr by your side")
-elif Choice == " Rabbit":
-    print("You'll care for a quiet, gentle friend who loves to hop around safely indoors.")
+# Choice = input ("Which pet will you adopt?")
+# if Choice == " Dog":
+#     print("You'll have a playful friend to take on walks and play fetch with.")
+# elif Choice == " Cat":
+#     print("You will have a cozy friend who loves to nap and purr by your side")
+# elif Choice == " Rabbit":
+
+num = 23
+
+if num % 2 == 0 and num > 0:
+    print("Even positive")
+elif num % 2 == 1 and num > 0:
+    print("Odd positive")
+elif num % 2 == 0 and num < 0:
+    print("Even negative")
+elif num % 2 == 1 and num < 0:
+    print("Even negative")
+else: 
+    print("Not a number")

@@ -51,8 +51,8 @@
 # Add the numbers 11 and 12 to the list.
 # Remove the number 3 from the list.
 
-mylist = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-mylist.pop(2)
-mylist.append(11)
-mylist.append(12)
-print(mylist)
+# mylist = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# mylist.pop(2)
+# mylist.append(11)
+# mylist.append(12)
+# print(mylist)
