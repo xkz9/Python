@@ -310,15 +310,15 @@
 #     print("You will have a cozy friend who loves to nap and purr by your side")
 # elif Choice == " Rabbit":
 
-num = 23
+# num = 23
 
-if num % 2 == 0 and num > 0:
-    print("Even positive")
-elif num % 2 == 1 and num > 0:
-    print("Odd positive")
-elif num % 2 == 0 and num < 0:
-    print("Even negative")
-elif num % 2 == 1 and num < 0:
-    print("Even negative")
-else: 
-    print("Not a number")
+# if num % 2 == 0 and num > 0:
+#     print("Even positive")
+# elif num % 2 == 1 and num > 0:
+#     print("Odd positive")
+# elif num % 2 == 0 and num < 0:
+#     print("Even negative")
+# elif num % 2 == 1 and num < 0:
+#     print("Even negative")
+# else: 
+#     print("Not a number")
