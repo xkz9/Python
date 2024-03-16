@@ -2,7 +2,7 @@
 # mood = input ("Do you want to eat ice cream?🍦 ")
 # mood = mood.lower()
 # ant to eat. Leave me alone!🤬")
-# '''if mood == "yes":
+# '''if mood == "yes":   
 #     print("Here. Have one!😊")
 # else:
 #     print("I dont w
@@ -17,7 +17,7 @@
 
 # x = 4
 # if x == 4:
-#     print("equal")
+#     print("equal") 
 # elif x >= 4:
 #     print("greater or equal")
 # elif x > 4:
@@ -322,3 +322,8 @@
 #     print("Even negative")
 # else: 
 #     print("Not a number")
+
+
+
+
+# Now I have moe lines  than you Ostap
