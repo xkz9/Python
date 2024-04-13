@@ -1,4 +1,4 @@
-# mylist = ["Leonardo's list", 9, 79, False]
+mylist = ["Leonardo's list", 9, 79, False]
 
 # The apppend funtion adds whatever value you want to the end of your list.
 
@@ -13,7 +13,7 @@
 
 # The pop function is used to remove a particular value by using it's index. 
 
-# mylist.pop(2)
+# mylist.pop(3)
 # print(mylist)
 
 # Th insert function adds a particular value at  a particular index in the list
@@ -29,7 +29,7 @@
 # mylist.clear()
 # print(mylist)
 
-# The .copy function makes a shallow copy of. A shallow copy mean both lists are stored differently in tyhe memory , but are referncing the same elements
+# The .copy function makes a shallow copy of. A shallow copy mean both lists are stored differently in the memory , but are referncing the same elements
 
 # newlist = mylist.copy()
 # print(newlist)

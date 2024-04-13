@@ -10,7 +10,7 @@
 # print(mystr[30])  
 # print(mystr[3])     
 # print(mystr[-35])  
-mystr = "Leonardo and Ostap are learning python"
+# mystr = "Leonardo and Ostap are learning python"
 
 # List slicing
 
@@ -26,7 +26,7 @@ mystr = "Leonardo and Ostap are learning python"
 # substring_2 = original_string[3:10:2]
 # print(substring_2)
 
-origional_string = "               PyThon Is A powErful progRamming lanGUagE        .          "
+# origional_string = "               PyThon Is A powErful progRamming lanGUagE        .          "
 # reversed_string = original_string[-1:-41:-1]
 # print(reversed_string[5:13:1])
 # print(original_string[-1:-41:-1])
@@ -75,7 +75,7 @@ origional_string = "               PyThon Is A powErful progRamming lanGUagE    
 # The numeric function checks if the string has any numbers  in it 
 
 # origional_string = "1234567890"
-# print (origional_string.isnumeric())
+# print (origional_string.isnumeric())    
 
 # THe isalnum function will check if your string has any numbers 
 # or letters ,but can only have numbers or letters or the value will 
@@ -111,7 +111,7 @@ origional_string = "               PyThon Is A powErful progRamming lanGUagE    
 # The swapcase fuction changes all of the cases in a string.
 # print(mystr.swapcase())
 
-# The isalpha function checks if the string only has alphabetical values.
+# The isalpha function checks if the string only has alphabetical values and nothing else.
 # print(mystr.isalpha())
 
 # The isnumeric function checks if the string only has numbers and nothing else.
