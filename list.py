@@ -16,7 +16,7 @@ mylist = ["Leonardo's list", 9, 79, False]
 # mylist.pop(3)
 # print(mylist)
 
-# Th insert function adds a particular value at  a particular index in the list
+# The insert function adds a particular value at  a particular index in the list       fruits[1]
 
 # mylist.insert(2, 200)
 # print(mylist)

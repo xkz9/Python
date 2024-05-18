@@ -17,11 +17,12 @@
 # print(mydict)
 
 # Find how many times each number is mentioned in the list.
-mylist = [1,2,2,2,3,4,14,10,1]
-mydict = {}
-for item in mylist:
-    if item mydict.keys():
-        mydict[item] +=1
-    else:
-        mydict[item]=print(mydict)
-print(mydict)
+# mylist = [1,2,2,2,3,4,14,10,1]
+# mydict = {}
+# for item in mylist:
+#     if item mydict.keys():
+#         mydict[item] +=1
+#     else:
+#         mydict[item]=print(mydict)
+# print(mydict)
+
