@@ -118,6 +118,27 @@
 # for i in range (x, 0, -1):
 #     print(i)
 
-x = (input("Enter string"))
-for i in range (len(x)-1):
-    print(x[i])
+# x = (input("Enter string"))
+# for i in range (len(x)-1):
+#     print(x[i])
+
+# for i in range (1, 50):
+#     if i % 3 == 0 and i % 5 == 0:
+#         print(i)
+
+# count = 0
+# for i in range (1, 50):
+#      if i % 3 == 0 and i % 5 == 0:
+#          count += 1
+# print(count)
+
+# for i in range (1, 11):       
+#     print(i * i)                    
+
+# for i in range (1, 22):
+#     if i % 2 == 0:
+#         print(i)      
+
+# for i in range (1, 17):
+#     if i % 2 == 1:
+#         print(i)

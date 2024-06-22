@@ -10,7 +10,7 @@
 # for i in range(1, 1000000):
 #     print(i*12)
 
-# for i in range(1, 1000):
+# for i in range(1, 100000):
 #     print(i*"🥦🤢")
 
 # for i in range(1, 10):
@@ -24,3 +24,4 @@
 
 # for i in range(10, 0, -2):
 #     print(i* "🥗")
+
