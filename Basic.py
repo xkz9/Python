@@ -4,7 +4,7 @@
 # data types in python
 # int = 34
 # float = 0.19
-# bool = True False
+# bool = True3M, False
 # string "Hello" 'Bye' """Hello""" '''Hello'''
 # Char "a"
 

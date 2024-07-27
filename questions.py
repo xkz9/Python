@@ -142,3 +142,54 @@
 # for i in range (1, 17):
 #     if i % 2 == 1:
 #         print(i)
+
+
+# s = {"apple", "bannana", "cherry",}
+# string = "bannana"
+
+# if string in s:
+#     print("Found")
+# else: 
+#     print("Not Found")
+
+
+# s = {1, 2, 3}
+# num = 4
+
+# if num in s:
+#     print("Found")
+# else:
+#     print("Not Found")
+
+
+# s = {1, 2, 3, 4, 5}
+# print(len(s))
+
+
+# a = {1, 2, 3}
+# b = {3, 4, 5}
+# print(3)
+
+# s = {"aplle", "bannana", "cherry"}
+# string = "peach"
+# if string in s:
+#     print("Found")
+# else:
+#     print("Not Found")
+
+
+# a = {1, 2, 3}
+# b = {4, 5, 6}
+# union_string_len = 6
+
+# union_string = a | b
+# if union_string_len == 6:
+#     print("No Overlap")
+# else:
+#     print("Overlap")
+
+l1 = [1, 2, 3, 4]
+l2 = [3, 4, 5, 6]
+l3 = [4, 5, 6, 7]
+ans = set(l1) & set(l2) & set(l3)
+print(ans)
