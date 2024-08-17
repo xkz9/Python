@@ -323,7 +323,30 @@
 # else: 
 #     print("Not a number")
 
+# choice1 = input ("Choose the first of 3 colours red, blue, yellow to mix")
+# choice2 = input ("Choose the second of 3 colours red, blue, yellow to mix")
+# if choice1 == "red" and choice2 == "red":
+#     print("red")
+# elif choice1 == "blue" and choice2 == "blue":
+#     print("blue")
+# elif choice1 == "yellow" and choice2 == "yellow":
+#     print("yellow")
+# elif choice1 == "red" and choice2 == "blue":
+#     print("purple")
+# elif choice1 == "red" and choice2 == "yellow":
+#     print("orange")
+# elif choice1 == "blue" and choice2 == "yellow":
+#     print("green")
 
-
-
-# Now I have moe lines  than you Ostap
+num1 = 1
+num2 = 2
+num3 = 3
+res = 0
+num2 += 6
+res = num1 + num2 - 2
+res = res + num1 * 2
+num3 = num1 + num1 // num2
+res = res - num3
+num1 = num2
+res = res + num1
+print(res, num3, num2, num1)

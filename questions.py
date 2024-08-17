@@ -188,8 +188,27 @@
 # else:
 #     print("Overlap")
 
-l1 = [1, 2, 3, 4]
-l2 = [3, 4, 5, 6]
-l3 = [4, 5, 6, 7]
-ans = set(l1) & set(l2) & set(l3)
-print(ans)
+# l1 = [1, 2, 3, 4]
+# l2 = [3, 4, 5, 6]
+# l3 = [4, 5, 6, 7]
+# ans = set(l1) & set(l2) & set(l3)
+# print(ans)
+
+
+# list1 = [7, 21, 11, 2, 5, 1, 15]
+# list2 = [0,0,0,0,0,0,0]
+# x = list1[1]
+# y = list1[3]
+# list2.append(x + y)
+# list1.sort()
+# list2.sort()
+# print(list1)
+# print(list2)
+
+xy = [4, 3, 2, 1, 0, "new", "old"]
+print(xy)
+length = len(xy)
+for i in range (1, length):
+    print(xy[i])
+xy[0:3]
+xy[-3:0]
